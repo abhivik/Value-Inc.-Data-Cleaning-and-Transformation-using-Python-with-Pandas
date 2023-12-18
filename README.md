@@ -1,4 +1,4 @@
-## Value Inc. ## 
+## Value Inc. Data Cleaning and Transformation using Python with Pandas ## 
 
 Value Inc. is a retail store that sells household items all over the world in bulk.
 The Sales Manager has no sales reporting, but he has a brief idea of current sales. 
