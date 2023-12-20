@@ -30,3 +30,4 @@ Created visualizations for sales trends, monthly costs, profits, and identified 
 Python 3.x <br>
 Pandas <br>
 Tableau Desktop <br>
+![Capture](https://github.com/abhivik/Value-Inc.-Data-Cleaning-and-Transformation-using-Python-with-Pandas/assets/34742262/24f4af23-21b4-40e8-b78a-6bee2691a4d2)
