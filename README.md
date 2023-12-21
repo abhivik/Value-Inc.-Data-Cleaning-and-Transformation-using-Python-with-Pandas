@@ -1,4 +1,4 @@
-# Value Inc. Data Cleaning and Transformation using Python with Pandas ## 
+# Value Inc. Sales Analysis Python and Tableau ## 
 
 ## Introduction
 Value Inc., a global retail store specializing in bulk sales of household items, lacked a comprehensive sales reporting system. The Sales Manager had a basic understanding of current sales but needed insights into monthly costs, profits, and top-selling products. This project aims to address these challenges through data cleaning and manipulation using Python with Pandas, followed by in-depth data analysis using Tableau.
