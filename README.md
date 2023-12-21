@@ -16,8 +16,8 @@ Utilized Tableau to analyze the cleaned data and derive actionable insights.
 Created visualizations for sales trends, monthly costs, profits, and identified top-selling products.
 
 ## Data Sources
-[1. Transactions Data](https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view?usp=sharing)<br> Raw Data from Value Inc. Sales Transactions. <br>
-[2. Seasons Data](https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv)<br> Additional data related to seasonal trends and patterns.
+[1. Transactions Data](https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view?usp=sharing) Raw Data from Value Inc. Sales Transactions. <br>
+[2. Seasons Data](https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv) Additional data related to seasonal trends and patterns.
 
 ## Cleaned Data File
 [3. Cleaned Data File](https://drive.google.com/file/d/1HjoQerZqzqM8fO4t0jfsBBe1yqR0LvMa/view?usp=sharing)<br>
